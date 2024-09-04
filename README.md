@@ -7,7 +7,7 @@
 
 As a web developer, I enjoy bridging the gap between engineering and design — combining my technical knowledge with my keen eye for design to create a beautiful product. My goal is to always build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
 
-🔒 <bold>When I'm not in front of a computer screen</bold>, I'm probably doing sports or studying.
+🔒 <strong> When I'm not in front of a computer screen</bold>, I'm probably doing sports or studying.</strong>
 </p>
 
 ###
