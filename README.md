@@ -18,7 +18,7 @@ As a web developer, I enjoy bridging the gap between engineering and design — 
   <a href="https://instagram.com/mustafalegendary" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/alpernae" target="_blank">
+  <a href="https://twitter.com/mustafasa1d" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
   </a>
   </a>
